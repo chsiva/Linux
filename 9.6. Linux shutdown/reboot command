@@ -1,0 +1,7 @@
+# halt, # poweroff # reboot -p # shutdown -h now -- shutdown
+# reboot -- Restart/reboot
+# shutdown -h +5 "Server is going down for upgrade. Please save your work."
+# shutdown -r +5 "Server will restart in 5 minutes. Please save your work."
+# shutdown -c
+
+https://www.binarytides.com/linux-command-shutdown-reboot-restart-system/
