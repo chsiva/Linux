@@ -1,0 +1,4 @@
+How to Resolve Another app is currently holding the yum lock; waiting for it to exit
+ solution 1: rm -f /var/run/yum.pid 20360
+ solution2: ps aux | grep yum (and) kill -9 [insert pid] 
+ 
