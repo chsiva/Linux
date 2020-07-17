@@ -1,4 +1,4 @@
 #! /bin/bash
-whoamii
+whoami
 ansible --version
 
