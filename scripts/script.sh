@@ -1,4 +1,4 @@
-# #! /bin/bash
-# whoami
-# ansible --version
+#! /bin/bash
+whoami
+ansible --version
 
