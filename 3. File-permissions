@@ -1,1 +1,8 @@
+chmod
+umask
 
+user, group, others
+
+r = 4 read
+w = 2 write
+x = 1 execute
