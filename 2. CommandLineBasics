@@ -11,9 +11,9 @@ uname -a or uname -r -- kernel version
 whoami               -- check which user logged in
 
 /var/log or dmesg    -- check logs in linux
-ps -ux               -- process status
-top                  -- status
-netstat              -- check port or network status
+ps -ux               -- ('ps' command showing all process by time wise. which is having the all process. Its not care about the process state (running or sleeping)).
+top                  -- 'top' command showing running process in the top order. That's why you can see the variation in the output. Some of the process in the first line after some time it will go second or third its dependences on the process status.
+netstat -anp         -- check port or network status
 
 
 
