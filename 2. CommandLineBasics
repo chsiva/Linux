@@ -45,6 +45,8 @@ ifconfig
 tail
 head
 history
+history -d <line number>
+history -c
 
 
 
