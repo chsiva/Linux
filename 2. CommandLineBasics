@@ -34,12 +34,13 @@ kill -9 < pid num>
 
 du
 df
-fdisk
-pvcreate
-lvcreate
+fdisk                -- It is used for the view, create, delete, change, resize, copy and move partitions on a hard drive
+pvcreate.            -- To create physical volume
+lvcreate             -- To create logical volume
+blkid /dev/sda1      --  To view block id (UUID number)
 mount
 umount
-/etc/fstab
+/etc/fstab           --  Permanently mount file systems
 
 ifconfig
 tail
