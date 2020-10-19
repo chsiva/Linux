@@ -1,6 +1,11 @@
 cd                   -- change directory - command to go to next place or something
 pwd                  -- check current directory path
 ls                   -- list files in directory
+grep                 --
+pipe (|)             --
+mkdir                --  create a new directory
+touch                --  create a new text file
+rm -rf <file-name>   --  delete files or directory
 mv                   -- move files
 cp- copy command     -- to copy files/dir to another place
 find                 -- check specific file in which path it is located
@@ -14,6 +19,24 @@ whoami               -- check which user logged in
 ps -ux               -- ('ps' command showing all process by time wise. which is having the all process. Its not care about the process state (running or sleeping)).
 top                  -- 'top' command showing running process in the top order. That's why you can see the variation in the output. Some of the process in the first line after some time it will go second or third its dependences on the process status.
 netstat -anp         -- check port or network status
+
+# Kill process in Linux
+pidof <program_name>
+kill -9 < pid num>
+
+du
+df
+fdisk
+pvcreate
+lvcreate
+mount
+umount
+/etc/fstab
+
+ifconfig
+tail
+head
+history
 
 
 
