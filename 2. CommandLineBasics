@@ -1,2 +1,20 @@
-cd - change directory - command to go to next place or something
-cp- copy command - to copy files/dir to another place
+cd                   -- change directory - command to go to next place or something
+pwd                  -- check current directory path
+ls                   -- list files in directory
+mv                   -- move files
+cp- copy command     -- to copy files/dir to another place
+find                 -- check specific file in which path it is located
+chmod                -- file permisions
+umask                -- file permisions
+
+uname -a or uname -r -- kernel version
+whoami               -- check which user logged in
+
+/var/log or dmesg    -- check logs in linux
+ps -ux               -- process status
+top                  -- status
+netstat              -- check port or network status
+
+
+
+
