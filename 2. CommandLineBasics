@@ -12,6 +12,14 @@ find                 -- check specific file in which path it is located
 chmod                -- file permisions
 umask                -- file permisions
 
+useradd
+groupadd
+chown
+
+# package management
+rpm 
+yum
+
 uname -a or uname -r -- kernel version
 whoami               -- check which user logged in
 
