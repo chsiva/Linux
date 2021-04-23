@@ -1,5 +1,5 @@
 # Linux Tutorial
-command to create 100 files - touch file{1.100}.txt
+command to create 100 files - touch file{1..100}.txt
 videos-- Linuxacademy.com
 Download and install oracle VirtualBox
 ---------------------------------------------------------------------------------------------------------------------------------------
