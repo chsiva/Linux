@@ -1,5 +1,6 @@
 # Linux Tutorial
 command to create 100 files - touch file{1..100}.txt
+list files based on number - echo *(n)  or ls -v
 videos-- Linuxacademy.com
 Download and install oracle VirtualBox
 ---------------------------------------------------------------------------------------------------------------------------------------
